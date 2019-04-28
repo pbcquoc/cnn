@@ -19,6 +19,7 @@ CNN có mối liên kết chặt chẽ với sinh học, cụ thể là của v�
 <div class="img-div" markdown="0">
     <img src="/images/cnn_visual_cortex.jpg" />
 </div>
+
 Các bạn đọc tiếp tục tại [blog](https://pbcquoc.github.io/cnn/) của mình nhé
 
 # Dataset
