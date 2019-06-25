@@ -23,8 +23,7 @@ CNN có mối liên kết chặt chẽ với sinh học, cụ thể là của v�
 Các bạn đọc tiếp tục tại [blog](https://pbcquoc.github.io/cnn/) của mình nhé
 
 # Dataset
-
-# Kết Quả 
+Các bạn có thể download tập dataset đã được xử lý tại [đây](https://drive.google.com/open?id=1ABhwNb5ioRzUEV9iLDpVSEIV_76yofNm) nhé
 
 # Any Problems?
 
